@@ -10,7 +10,7 @@ public class PlatformScroller : MonoBehaviour
     {
         scrollSpeed = scrollSpeed + Time.deltaTime ;
         // Move the platform upwards over time
-        transform.position += Vector3.up * scrollSpeed * Time.deltaTime;
+        transform.position += Vector3.left * scrollSpeed * Time.deltaTime;
 	}
 }
 //change under 50 when goes over 50 
