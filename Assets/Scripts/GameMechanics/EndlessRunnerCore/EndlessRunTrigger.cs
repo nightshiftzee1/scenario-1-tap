@@ -17,7 +17,7 @@ public class EndlessRunTrigger : MonoBehaviour
 
 
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter(Collider other)
     {
         if (Tags.Contains(other.tag) || Tags.Length == 0)
         {
