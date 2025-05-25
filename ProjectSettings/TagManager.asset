@@ -8,6 +8,8 @@ TagManager:
   - kill
   - coins
   - Coins
+  - ConstPoints
+  - Kill
   layers:
   - Default
   - TransparentFX
