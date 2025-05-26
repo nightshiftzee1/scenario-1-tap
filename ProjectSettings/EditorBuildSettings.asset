@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DeathBlackHole.unity
     guid: ac002039ee5b89047ab19936913ec93c
+  - enabled: 1
+    path: Assets/Scenes/DeathCeiling.unity
+    guid: 78bdadf9dfeb39a48be51bd7e5d727dc
+  - enabled: 1
+    path: Assets/Scenes/DeathFloor.unity
+    guid: fbd2c343f8a536440ad3efc536849976
+  - enabled: 1
+    path: Assets/Scenes/DeathPipe.unity
+    guid: 75e8b562108017f48af4fe5349915029
   m_configObjects: {}

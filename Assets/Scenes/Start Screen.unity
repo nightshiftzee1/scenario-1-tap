@@ -973,7 +973,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Tap anywhere on the screen to jump to that location. \nAvoid the pipes
-    and avoid the black hole."
+    and avoid the black hole.\nTip:\nTry keeping in line with the black hole for
+    a slower descent."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
